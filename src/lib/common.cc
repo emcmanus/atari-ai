@@ -1,33 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 namespace {
 // Code to turn parameters to functions on streams into strings
 // Will be VLOG'ed. We need overloads instead of
