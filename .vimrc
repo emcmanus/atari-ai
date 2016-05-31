@@ -65,6 +65,11 @@ set softtabstop=2
 set tabstop=2
 set expandtab
 
+" ================ Matching ======================
+set showmatch       " Show matching brackets.
+set ignorecase      " Do case insensitive matching
+set smartcase       " Do smart case matching
+
 " Auto indent pasted text
 nnoremap p p=`]<C-o>
 nnoremap P P=`]<C-o>
