@@ -5,4 +5,3 @@
 
 <img src="http://img.pandawhale.com/168221-Silicon-Valley-Russ-Hanneman-t-Earx.gif"></img>
 # THIS. GUY. FUCKS.
-
